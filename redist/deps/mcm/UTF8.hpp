@@ -56,7 +56,7 @@ public:
 		return error;
 	}
 
-	forceinline void clear_err() const {
+	forceinline void clear_err() {
 		error = false;
 	}
 
