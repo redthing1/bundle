@@ -8,6 +8,7 @@
 #ifndef BUNDLE_HPP
 #define BUNDLE_HPP
 
+#define BUNDLE_VERSION "2.2.0" /* (2022/02/12) redthing1 hacking */
 #define BUNDLE_VERSION "2.1.0" /* (2017/06/10) C API and DLL bindings; Pump up libcsc; Rename .bnd to .bun
 #define BUNDLE_VERSION "2.0.5" // (2016/02/06) Bring back BZIP2 support
 #define BUNDLE_VERSION "2.0.4" // (2015/12/04) Add padding support; Fix reentrant CRUSH; Optimizations & fixes
