@@ -1,4 +1,4 @@
-#include "Shrinker.h"
+#include "shrinker.h"
 
 #include <stdlib.h>
 #include <string.h>
