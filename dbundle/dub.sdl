@@ -1,0 +1,7 @@
+name "dbundle"
+description "wip"
+authors "no"
+copyright "Copyright © 2022, no"
+license "proprietary"
+
+preBuildCommands "rdmd ./prebuild.d"
